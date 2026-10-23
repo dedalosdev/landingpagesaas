@@ -8,6 +8,8 @@ import { Blog } from './components/Blog'
 import { About } from './components/About'
 import { Contact } from './components/Contact'
 import { Footer } from './components/Footer'
+import { Pricing } from './components/Pricing'
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -20,6 +22,7 @@ function App() {
       <InfoSection />
       <Testimonial />
       <Blog />
+      <Pricing />
       <Contact />
       <Footer />
     </>

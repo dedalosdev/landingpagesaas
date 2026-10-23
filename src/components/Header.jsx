@@ -9,7 +9,7 @@ export const Header = () => {
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-indigo-500 rounded-full" viewBox="0 0 24 24">
                         <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
                     </svg>
-                    <span class="ml-3 text-xl">Coding Wing:</span>
+                    <span class="ml-3 text-xl">Flowly</span>
                     </a>
                     <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
                     <a class="mr-6 hover:text-gray-900 font-medium">Home</a>
@@ -17,6 +17,7 @@ export const Header = () => {
                     <a class="mr-5 hover:text-gray-900 font-medium">Services</a>
                     <a class="mr-5 hover:text-gray-900 font-medium">Testimonials</a>
                     <a class="mr-5 hover:text-gray-900 font-medium">Our Blogs</a>
+                    <a class="mr-5 hover:text-gray-900 font-medium">Pricing</a>
                     <a class="mr-5 hover:text-gray-900 font-medium">Contact Us</a>
                     </nav>
                     <button class="inline-flex items-center bg-indigo-500 border-0 py-2 px-4
